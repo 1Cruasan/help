@@ -1,0 +1,11 @@
+.line{
+	width: 105px;
+	height: 2px;
+	background: #efefef
+}
+
+
+
+        <div class="line"></div>
+				<p>OR</p>
+				<div class="line"></div>
